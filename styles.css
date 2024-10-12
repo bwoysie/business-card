@@ -19,11 +19,12 @@ body {
   width: 600px;
   margin: auto ;
   text-align: center;
-  background: #ffe4fa;
+  background: #e496d7;
   color: #2b2838;
   border-bottom: 6px solid #ffc4eb;
   padding: 20px;
   display: flex;
   justify-content: space-around;
   border-radius: 10px;
+  border-bottom: solid 5px  #13080f;;
 }
